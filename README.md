@@ -1,11 +1,4 @@
 # OpticSense.ai Backend
-
-> **Intelligent Fiber Infrastructure Monitoring** — Real-time network health tracking and AI-powered predictive diagnostics for fiber optic distribution infrastructure.
-
----
-
-## Overview
-
 OpticSense.ai is a network infrastructure management and monitoring platform that integrates geospatial data with artificial intelligence. The system is designed to monitor the health of fiber optic distribution points (ODP/ODC) in real-time and deliver predictive diagnostic analysis using a Large Language Model (LLM).
 
 ---
